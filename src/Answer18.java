@@ -30,7 +30,7 @@ public class Answer18 {
         int y = num1 / num2;
         int z = num1 % num2;
 
-        System.out.println("Additon of "+ num1 + " + " + num2 + " = " + (num1 + num2));
+        System.out.println("Addition of "+ num1 + " + " + num2 + " = " + (num1 + num2));
         System.out.println("Subtraction of "+ num1 + " - " + num2 + " = " + (num1 - num2));
         System.out.println("Multiplication of "+ num1 + " * " + num2 + " = " + x);
         System.out.println("Division of "+ num1 + " / " + num2 + " = " + y);
@@ -39,7 +39,7 @@ public class Answer18 {
 
     public static void main(String[] args) {
 
-        Answer18 obj = new Answer18(); // Object to call Instacne method
+        Answer18 obj = new Answer18(); // Object to call Instance method
 
         obj.operations();
 

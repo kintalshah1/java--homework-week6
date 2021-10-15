@@ -28,7 +28,7 @@ public class Answer20 {
 
         System.out.println("\"+----------------------------+\"");
         System.out.println("\"|                            |\"");
-        System.out.println("\"|       CORNOR STORE         |\"");
+        System.out.println("\"|       CORNER STORE         |\"");
         System.out.println("\"|                            |\"");
         System.out.println("\"|    2015-03-29  04:38PM     |\"");
         System.out.println("\"|                            |\"");
